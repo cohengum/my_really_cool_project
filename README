@@ -2,8 +2,12 @@ This is a really awesome project guys!
 
 This is my first README file!
 
+<<<<<<< HEAD
 SOME SOME SOME
 
 SOMETHIING
 
 AAARGH
+=======
+Cowabunga bro
+>>>>>>> foo_feature
